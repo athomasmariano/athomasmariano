@@ -10,7 +10,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/nguo1MS.gif" width="400">
+  <img src="https://imgur.com/olnKajv.gif" width="600">
 </div>
 
 <div align="center" width="100%">
