@@ -21,20 +21,25 @@
 
 
   <br>
+<div align="center">
   <img
-    align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athomasmariano&theme=tokyonight"
   />
+</div>
+
   <br>
+
   <br>
+  
+  <div align="center">
   <img
     height=154
-    align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=athomasmariano&theme=tokyonight"
   />
   </div>
+    <br>
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://skillicons.dev">
